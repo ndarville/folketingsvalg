@@ -5,8 +5,8 @@ Originally compiled by: @Straubinger.
 
 |     | Party name (da) | Party Name (en)
 |:----|-----------------|----------------
-| S   | Socialdemokratiet            | The Social Democratic Party
-| RV  | Det Radikale Venstre         | The Social Liberal Party
+| S   | Socialdemokratiet            | The Danish Social Democrats
+| RV  | Det Radikale Venstre         | The Danish Social-Liberal Party
 | K   | Det Konservative Folkeparti  | The Conservative People’s Party
 | CD  | Centrum-Demokraterne         | The Centre Democrats
 | Rfb | Retsforbundet                | Justice Party
