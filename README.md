@@ -1,7 +1,7 @@
 Danish General Election Results 1953–2015
 =========================================
 Source: [ft.dk][ft] and [DST][dst].
-Originally compiled by: @Straubinger.
+Originally compiled by: [@Straubinger][].
 
 |     | Party name (da) | Party Name (en)
 |:----|-----------------|----------------
@@ -28,3 +28,4 @@ Originally compiled by: @Straubinger.
 
 [ft]:  http://www.ft.dk/Folketinget/Oplysningen/Valg/ValgresultaterDK.aspx
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=020213
+[@straubinger]: https://github.com/straubinger
