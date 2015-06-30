@@ -26,5 +26,5 @@ Originally compiled by: @Straubinger.
 | Alt | Alternativet                 | The Alternative
 
 
-[source]: http://www.ft.dk/Folketinget/Oplysningen/Valg/~/media/PDF/om_folketinget/Folketingets_Oplysning/Folketingsvalgene%201953-2011.pdf.ashx
+[ft]:  http://www.ft.dk/Folketinget/Oplysningen/Valg/ValgresultaterDK.aspx
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=020213
