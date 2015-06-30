@@ -3,6 +3,10 @@ Danish General Election Results 1953–2015
 Source: [ft.dk][ft] and [DST][dst].
 Originally compiled by: [@Straubinger][].
 
+The data does not include the four North Atlantic seats nor their electoral votes. This brings the seat total to **175** instead of the full **179**.
+
+A majority of **90** is required to form a parliamentary majority.
+
 |     | Party name (da) | Party Name (en)
 |:----|-----------------|----------------
 | S   | Socialdemokratiet            | The Danish Social Democrats
