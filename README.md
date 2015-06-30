@@ -9,7 +9,7 @@ Originally compiled by: [@Straubinger][].
 | RV  | Det Radikale Venstre         | The Danish Social-Liberal Party
 | K   | Det Konservative Folkeparti  | The Conservative People’s Party
 | CD  | Centrum-Demokraterne         | The Centre Democrats
-| Rfb | Retsforbundet                | Justice Party
+| Rfb | Retsforbundet                | Justice Party of Denmark
 | SF  | Socialistisk Folkeparti      | Socialist People’s Party
 | DKP | Danmarks Kommunistiske Parti | Communist Party of Denmark
 | DF  | Dansk Folkparti              | Danish People’s Party
